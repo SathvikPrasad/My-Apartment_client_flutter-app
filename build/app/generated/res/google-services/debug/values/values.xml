@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">368594759075-k23n5frqu68q0sqhnhtf775ccu8m86h2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://myapartment-68165.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">368594759075</string>
+    <string name="google_api_key" translatable="false">AIzaSyAhXbzWYYdj6LVVZ-8BH-stZm5T1jWGu44</string>
+    <string name="google_app_id" translatable="false">1:368594759075:android:cdd1c9bf87dc75cfe5fe16</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAhXbzWYYdj6LVVZ-8BH-stZm5T1jWGu44</string>
+    <string name="google_storage_bucket" translatable="false">myapartment-68165.appspot.com</string>
+    <string name="project_id" translatable="false">myapartment-68165</string>
+</resources>

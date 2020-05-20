@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368594759075",
+    "firebase_url": "https://myapartment-68165.firebaseio.com",
+    "project_id": "myapartment-68165",
+    "storage_bucket": "myapartment-68165.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368594759075:android:cdd1c9bf87dc75cfe5fe16",
+        "android_client_info": {
+          "package_name": "co.sathvik.my_apartment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368594759075-k23n5frqu68q0sqhnhtf775ccu8m86h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXbzWYYdj6LVVZ-8BH-stZm5T1jWGu44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368594759075-k23n5frqu68q0sqhnhtf775ccu8m86h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
